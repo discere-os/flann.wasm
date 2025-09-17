@@ -1,5 +1,6 @@
 *.save
 .*
+!.github
 tmp
 *.pyc
 src/matlab/*.dat
