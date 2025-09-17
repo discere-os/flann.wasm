@@ -1,4 +1,12 @@
-# @discere-os/.wasm
+# @discere-os/flann.wasm
+
+WebAssembly port of FLANN - Fast Library for Approximate Nearest Neighbors with SIMD optimization and machine learning capabilities.
+
+[![CI/CD](https://github.com/discere-os/discere-nucleus/actions/workflows/flann-wasm-ci.yml/badge.svg)](https://github.com/discere-os/discere-nucleus/actions)
+[![JSR](https://jsr.io/badges/@discere-os/flann.wasm)](https://jsr.io/@discere-os/flann.wasm)
+[![npm version](https://badge.fury.io/js/@discere-os%2Fflann.wasm.svg)](https://badge.fury.io/js/@discere-os%2Fflann.wasm)
+[![License](https://img.shields.io/badge/License-BSD--3--Clause-blue.svg)](COPYING)
+[![Status](https://img.shields.io/badge/status-alpha-orange.svg)](https://github.com/discere-os/discere-nucleus)
 
 
 
